@@ -1,0 +1,14 @@
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\this\obj\Debug\net8.0\this.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\this\obj\Debug\net8.0\this.AssemblyInfoInputs.cache
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\this\obj\Debug\net8.0\this.AssemblyInfo.cs
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\this\obj\Debug\net8.0\this.csproj.CoreCompileInputs.cache
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\this\bin\Debug\net8.0\this.exe
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\this\bin\Debug\net8.0\this.deps.json
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\this\bin\Debug\net8.0\this.runtimeconfig.json
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\this\bin\Debug\net8.0\this.dll
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\this\bin\Debug\net8.0\this.pdb
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\this\obj\Debug\net8.0\this.dll
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\this\obj\Debug\net8.0\refint\this.dll
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\this\obj\Debug\net8.0\this.pdb
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\this\obj\Debug\net8.0\this.genruntimeconfig.cache
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\this\obj\Debug\net8.0\ref\this.dll
