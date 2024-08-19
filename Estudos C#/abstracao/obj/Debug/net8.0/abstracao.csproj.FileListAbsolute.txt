@@ -1,0 +1,15 @@
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\abstracao\bin\Debug\net8.0\abstracao.exe
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\abstracao\bin\Debug\net8.0\abstracao.deps.json
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\abstracao\bin\Debug\net8.0\abstracao.runtimeconfig.json
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\abstracao\bin\Debug\net8.0\abstracao.dll
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\abstracao\bin\Debug\net8.0\abstracao.pdb
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\abstracao\obj\Debug\net8.0\abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\abstracao\obj\Debug\net8.0\abstracao.AssemblyInfoInputs.cache
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\abstracao\obj\Debug\net8.0\abstracao.AssemblyInfo.cs
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\abstracao\obj\Debug\net8.0\abstracao.csproj.CoreCompileInputs.cache
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\abstracao\obj\Debug\net8.0\abstracao.sourcelink.json
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\abstracao\obj\Debug\net8.0\abstracao.dll
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\abstracao\obj\Debug\net8.0\refint\abstracao.dll
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\abstracao\obj\Debug\net8.0\abstracao.pdb
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\abstracao\obj\Debug\net8.0\abstracao.genruntimeconfig.cache
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\abstracao\obj\Debug\net8.0\ref\abstracao.dll
