@@ -1,2 +1,26 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace Ex002{
+
+class Program{
+
+static void Main(string[] args){
+
+int num, resto;
+
+num = int.Parse(Console.ReadLine());
+
+Console.WriteLine(num % 2 == 0 ? "PAR" : "IMPAR");
+
+
+
+
+
+
+
+
+
+
+}
+}
+}
