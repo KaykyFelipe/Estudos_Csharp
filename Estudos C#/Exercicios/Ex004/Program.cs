@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ex002{
+namespace Ex004{
 
 class Program{
 

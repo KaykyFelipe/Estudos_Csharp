@@ -1,0 +1,15 @@
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex006\obj\Debug\net8.0\Ex006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex006\obj\Debug\net8.0\Ex006.AssemblyInfoInputs.cache
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex006\obj\Debug\net8.0\Ex006.AssemblyInfo.cs
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex006\obj\Debug\net8.0\Ex006.csproj.CoreCompileInputs.cache
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex006\obj\Debug\net8.0\Ex006.sourcelink.json
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex006\bin\Debug\net8.0\Ex006.exe
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex006\bin\Debug\net8.0\Ex006.deps.json
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex006\bin\Debug\net8.0\Ex006.runtimeconfig.json
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex006\bin\Debug\net8.0\Ex006.dll
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex006\bin\Debug\net8.0\Ex006.pdb
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex006\obj\Debug\net8.0\Ex006.dll
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex006\obj\Debug\net8.0\refint\Ex006.dll
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex006\obj\Debug\net8.0\Ex006.pdb
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex006\obj\Debug\net8.0\Ex006.genruntimeconfig.cache
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex006\obj\Debug\net8.0\ref\Ex006.dll

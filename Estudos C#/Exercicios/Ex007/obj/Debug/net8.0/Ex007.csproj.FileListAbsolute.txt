@@ -1,0 +1,15 @@
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex007\bin\Debug\net8.0\Ex007.exe
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex007\bin\Debug\net8.0\Ex007.deps.json
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex007\bin\Debug\net8.0\Ex007.runtimeconfig.json
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex007\bin\Debug\net8.0\Ex007.dll
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex007\bin\Debug\net8.0\Ex007.pdb
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex007\obj\Debug\net8.0\Ex007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex007\obj\Debug\net8.0\Ex007.AssemblyInfoInputs.cache
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex007\obj\Debug\net8.0\Ex007.AssemblyInfo.cs
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex007\obj\Debug\net8.0\Ex007.csproj.CoreCompileInputs.cache
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex007\obj\Debug\net8.0\Ex007.sourcelink.json
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex007\obj\Debug\net8.0\Ex007.dll
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex007\obj\Debug\net8.0\refint\Ex007.dll
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex007\obj\Debug\net8.0\Ex007.pdb
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex007\obj\Debug\net8.0\Ex007.genruntimeconfig.cache
+C:\Users\MW Contabilidade\Documents\GitHub\Estudos C#\Exercicios\Ex007\obj\Debug\net8.0\ref\Ex007.dll
