@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics.Contracts;
 
 namespace Name
 {
@@ -9,9 +10,16 @@ namespace Name
 
 public static void Main(string[] args)
 {
-    
-list <string> list = new List<string>();
 
+ decimal gramasBalanca = 2;   
+ decimal valor_pao = 12.00m;
+
+ decimal valor = (gramasBalanca * valor_pao) / 1000;
+
+ Console.WriteLine(valor);  
+
+ 
+ 
 
 }
 

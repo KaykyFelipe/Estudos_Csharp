@@ -1,0 +1,15 @@
+C:\Users\MW Contabilidade\Documents\GitHub\EF Core\CursoEFCore\bin\Debug\net8.0\CursoEFCore.exe
+C:\Users\MW Contabilidade\Documents\GitHub\EF Core\CursoEFCore\bin\Debug\net8.0\CursoEFCore.deps.json
+C:\Users\MW Contabilidade\Documents\GitHub\EF Core\CursoEFCore\bin\Debug\net8.0\CursoEFCore.runtimeconfig.json
+C:\Users\MW Contabilidade\Documents\GitHub\EF Core\CursoEFCore\bin\Debug\net8.0\CursoEFCore.dll
+C:\Users\MW Contabilidade\Documents\GitHub\EF Core\CursoEFCore\bin\Debug\net8.0\CursoEFCore.pdb
+C:\Users\MW Contabilidade\Documents\GitHub\EF Core\CursoEFCore\obj\Debug\net8.0\CursoEFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MW Contabilidade\Documents\GitHub\EF Core\CursoEFCore\obj\Debug\net8.0\CursoEFCore.AssemblyInfoInputs.cache
+C:\Users\MW Contabilidade\Documents\GitHub\EF Core\CursoEFCore\obj\Debug\net8.0\CursoEFCore.AssemblyInfo.cs
+C:\Users\MW Contabilidade\Documents\GitHub\EF Core\CursoEFCore\obj\Debug\net8.0\CursoEFCore.csproj.CoreCompileInputs.cache
+C:\Users\MW Contabilidade\Documents\GitHub\EF Core\CursoEFCore\obj\Debug\net8.0\CursoEFCore.sourcelink.json
+C:\Users\MW Contabilidade\Documents\GitHub\EF Core\CursoEFCore\obj\Debug\net8.0\CursoEFCore.dll
+C:\Users\MW Contabilidade\Documents\GitHub\EF Core\CursoEFCore\obj\Debug\net8.0\refint\CursoEFCore.dll
+C:\Users\MW Contabilidade\Documents\GitHub\EF Core\CursoEFCore\obj\Debug\net8.0\CursoEFCore.pdb
+C:\Users\MW Contabilidade\Documents\GitHub\EF Core\CursoEFCore\obj\Debug\net8.0\CursoEFCore.genruntimeconfig.cache
+C:\Users\MW Contabilidade\Documents\GitHub\EF Core\CursoEFCore\obj\Debug\net8.0\ref\CursoEFCore.dll
