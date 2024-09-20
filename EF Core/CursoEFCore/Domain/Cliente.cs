@@ -1,6 +1,6 @@
 using CursoEFCore.Objetos;
 
-namespace Domain.Cliente
+namespace CursoEFCore.Domain
 {
 
 

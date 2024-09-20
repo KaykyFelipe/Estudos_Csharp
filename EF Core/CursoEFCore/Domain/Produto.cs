@@ -1,6 +1,6 @@
 using CursoEFCore.Objetos;
 
-namespace Domain.Produto
+namespace CursoEFCore.Domain
 {
     
 public class Produto
@@ -9,7 +9,6 @@ public class Produto
 
     public string CodigoBarras { get; set; }
     public string Descricao { get; set; }
-
     public decimal Valor { get; set; }
     public TipoProduto TipoProduto { get; set; }
     
