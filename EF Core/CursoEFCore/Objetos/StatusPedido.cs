@@ -1,5 +1,5 @@
 
-namespace Curso.ValueObjects
+namespace CursoEFCore.Objetos
 {
 
 
