@@ -1,0 +1,5 @@
+D:\Git Hub Repositorios\Estudos_Csharp\Estudos C#\foreach\obj\Debug\net8.0\foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Hub Repositorios\Estudos_Csharp\Estudos C#\foreach\obj\Debug\net8.0\foreach.AssemblyInfoInputs.cache
+D:\Git Hub Repositorios\Estudos_Csharp\Estudos C#\foreach\obj\Debug\net8.0\foreach.AssemblyInfo.cs
+D:\Git Hub Repositorios\Estudos_Csharp\Estudos C#\foreach\obj\Debug\net8.0\foreach.csproj.CoreCompileInputs.cache
+D:\Git Hub Repositorios\Estudos_Csharp\Estudos C#\foreach\obj\Debug\net8.0\foreach.sourcelink.json
